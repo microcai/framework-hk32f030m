@@ -1,0 +1,6 @@
+{
+    "description": "HK32F030Mxxx Firmware Library",
+    "name": "framework-hk32f030m",
+    "system": "all",
+    "version": "1.0.0"
+}
